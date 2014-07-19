@@ -1,3 +1,5 @@
+// The following code is the base code given to me by my professor to run my program
+// Please note that it is not mine
 // DO NOT MODIFY THIS FILE
 
 // Author:
